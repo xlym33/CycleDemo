@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FBF8E71F64F9DACA3FC0A131E748891E11AA0A74",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FBF8E71F64F9DACA3FC0A131E748891E11AA0A74" : 9223372036854775807,
+    "D0BE478A5FF698A8F200C4500E91283540EB6CBC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E85E3EB8-F930-4230-8B9A-04EE53E22D99",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FBF8E71F64F9DACA3FC0A131E748891E11AA0A74" : "HSCycleView\/",
+    "D0BE478A5FF698A8F200C4500E91283540EB6CBC" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CycleDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CycleDemo\/CycleDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xlym33\/MaybeTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0BE478A5FF698A8F200C4500E91283540EB6CBC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:xlym33\/CycleDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FBF8E71F64F9DACA3FC0A131E748891E11AA0A74"
+    }
+  ]
+}
